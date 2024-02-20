@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "26A38E38-170B-40D0-9737-571BB76BFACB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF6458A4-FCE5-46B1-A97C-A5AB383BBB63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpstoxTestApp/View/HoldingsViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "isExpanded"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "EF6458A4-FCE5-46B1-A97C-A5AB383BBB63 - f52da57f3ae7631f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UpstoxTestApp.ViewController.isExpanded.didset : Swift.Bool"
+                  moduleName = "UpstoxTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/B0289890/Desktop/Upstox/UpstoxTestApp/UpstoxTestApp/View/HoldingsViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "EF6458A4-FCE5-46B1-A97C-A5AB383BBB63 - f52da57f3ae7631f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in UpstoxTestApp.ViewController.isExpanded.didset : Swift.Bool"
+                  moduleName = "UpstoxTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/B0289890/Desktop/Upstox/UpstoxTestApp/UpstoxTestApp/View/HoldingsViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC419D5C-9E85-426F-A1E4-A92EEB75F1EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpstoxTestApp/View/HoldingsViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "setupOtherData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37DBDF0B-66AD-4764-AA16-3DD92DB9E579"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UpstoxTestApp/ViewModel/UserHoldingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "totalProfitAndLoss"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
